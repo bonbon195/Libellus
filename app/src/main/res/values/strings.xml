@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Libellus</string>
+    <string name="preferense_file_key">ru.bonbon.libellus.PREFERENCE_FILE_KEY</string>
+</resources>
